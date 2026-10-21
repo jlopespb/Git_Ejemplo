@@ -3,5 +3,6 @@ public class Clase1 {
         System.out.println("Primera línea de texto");
         System.out.println("Segunda línea de texto");
         System.out.println("Tercera línea de texto");
+        System.out.println("Cuarta línea de texto");
     }
 }
